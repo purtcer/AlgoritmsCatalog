@@ -127,6 +127,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ДоговораКонтрагентов</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Document>ВводОстатков</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
