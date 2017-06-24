@@ -125,6 +125,7 @@
 			<Language>Русский</Language>
 			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Document>ВводОстатков</Document>
 		</ChildObjects>
 	</Configuration>
