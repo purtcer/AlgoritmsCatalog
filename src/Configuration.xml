@@ -126,6 +126,7 @@
 			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>Контрагенты</Catalog>
 			<Document>ВводОстатков</Document>
 		</ChildObjects>
 	</Configuration>
