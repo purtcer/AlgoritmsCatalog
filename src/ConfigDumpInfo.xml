@@ -31,6 +31,20 @@
 			<Metadata name="Document.ПоступлениеТоваров.Attribute.Контрагент" id="fc0711eb-5261-48b2-b8d4-0b7981a58613"/>
 		</Metadata>
 		<Metadata name="Document.УстановкаЦенНоменклатуры" id="b565a820-9437-487c-815f-313acdea5871" configVersion="e7246d989231134fbfb1483ebf5d816200000000">
+		<Metadata name="Document.ВводОстатков.Form.ФормаДокумента" id="33cb27cb-a615-4242-9fd2-90c0d3b90786" configVersion="df0eab5519cea848ad03c29cba0c3e0400000000"/>
+		<Metadata name="Document.ВводОстатков.Form.ФормаДокумента.Form" id="33cb27cb-a615-4242-9fd2-90c0d3b90786.0" configVersion="e3f7c2ab7495b2478acc21d470fd278e00000000"/>
+		<Metadata name="Document.ПродажаТоваров" id="47f8f26a-3703-4705-9d7c-0056f69d1f63" configVersion="16ff68d8a96b6b46953423522681bccc00000000">
+			<Metadata name="Document.ПродажаТоваров.TabularSection.Товары.Attribute.ЕдиницыИзмерения" id="43ce58a6-de82-4682-9104-678a9c12905b"/>
+			<Metadata name="Document.ПродажаТоваров.TabularSection.Товары.Attribute.Цена" id="5e54e67d-eb63-461a-8469-dab12d64c9f1"/>
+			<Metadata name="Document.ПродажаТоваров.TabularSection.Товары.Attribute.Номенклатура" id="6ed990d4-53e7-43a9-8b50-4b77f7a273ad"/>
+			<Metadata name="Document.ПродажаТоваров.Attribute.ДоговорыКонтрагентов" id="7831d283-81bb-479c-86f7-c6dbd7ed2ff0"/>
+			<Metadata name="Document.ПродажаТоваров.TabularSection.Товары.Attribute.Количество" id="9ac2006a-b4cc-4857-b372-e65f9a5b43af"/>
+			<Metadata name="Document.ПродажаТоваров.Attribute.ВидЦены" id="a4595d53-c986-498f-9c5d-39cb148cf091"/>
+			<Metadata name="Document.ПродажаТоваров.TabularSection.Товары" id="cec1dc1d-8db9-43b1-ad26-5c31b0b5ed5e"/>
+			<Metadata name="Document.ПродажаТоваров.Attribute.Контрагенты" id="e2b9e6d7-f2f7-4276-b26d-25e8d96e756e"/>
+			<Metadata name="Document.ПродажаТоваров.TabularSection.Товары.Attribute.Сумма" id="f661e9e2-2c51-4491-af56-8af49a1a0f56"/>
+		</Metadata>
+		<Metadata name="Document.УстановкаЦенНоменклатуры" id="b565a820-9437-487c-815f-313acdea5871" configVersion="d2e3c2902738fd4faeb608eda00155ca00000000">
 			<Metadata name="Document.УстановкаЦенНоменклатуры.TabularSection.Товары.Attribute.Цена" id="0f5195b2-08c3-4634-bfb9-2792fad7e24a"/>
 			<Metadata name="Document.УстановкаЦенНоменклатуры.TabularSection.Товары.Attribute.Номенклатура" id="46c5147d-ef75-4883-8f7c-f6e861013d5c"/>
 			<Metadata name="Document.УстановкаЦенНоменклатуры.TabularSection.Товары" id="a1792d74-ef12-4295-a74f-a7debe1aa9f0"/>

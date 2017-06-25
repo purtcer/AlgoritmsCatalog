@@ -131,6 +131,7 @@
 			<Document>ВводОстатков</Document>
 			<Document>УстановкаЦенНоменклатуры</Document>
 			<Document>ПоступлениеТоваров</Document>
+			<Document>ПродажаТоваров</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
